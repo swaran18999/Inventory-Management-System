@@ -1,0 +1,98 @@
+.box1
+{
+padding: 5px;
+border-color: black;
+}
+.btn1
+{
+	padding: 5px;
+	width: 356px;
+	background-color: skyblue;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.btn2
+{
+	padding: 5px 40px;
+	width: 715px;
+	background-color: skyblue;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.btn3
+{
+	background-color: skyblue;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+	margin:auto;  	
+	padding: 7px;
+	width: 200px;
+}
+.margins
+{
+	margin-top:20%;
+	margin-left: 32%;
+}
+.error
+{
+	font-weight: bold;
+}
+.btn4
+{
+	padding: 5px 30px;
+	background-color: skyblue;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.txt1
+{
+	font-size: 17px;
+}
+.btn5
+{
+	padding: 5px 96px;
+	background-color: skyblue;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.btn6
+{
+	width: 200px;
+	padding: 5px;
+	background-color: skyblue;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.btn7
+{
+	padding: 5px 30px;
+	background-color: skyblue;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+	width:608px;
+}
+.btn8
+{
+	padding: 5px 30px;
+	background-color: crimson;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+	width:608px;
+}
+.btn9
+{
+	width: 200px;
+	padding: 5px;
+	background-color: crimson;
+	border-color: black;
+	font-weight: bold;
+	text-align: center;
+}
